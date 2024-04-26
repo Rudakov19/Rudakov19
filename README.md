@@ -1,8 +1,4 @@
 # 👋 Hi, I’m Dmitriy
-
-<!--
-**Rudakov19/Rudakov19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### ❤️ About me:
 I am a python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 He graduated from the university in the field of "Construction of bridges and transport tunnels". 
